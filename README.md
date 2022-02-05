@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Himel
 #### I am a Web Developer
-I am learning learner. I will make you an error-free website.
+I am a fast learner. I will make you an error-free website.
 
 Skills: JS / HTML / CSS/ Bootstrap
 
