@@ -2,14 +2,14 @@
 
 
 ### Hi there 👋, I'm Himel
-#### I am a Web Developer
-I am a fast learner. I will make you an error-free website.
+#### I am a programming enthusiast.
+I am a fast learner. I will try to take this world into a better place.
 
-Skills: JS / HTML / CSS/ Bootstrap
+Skills: JS / HTML / CSS/ Bootstrap/ Python
 
 - 🔭 I’m currently working on improving my skills 
-- 🌱 I’m currently learning Javascript 
-- 💬 Ask me about Web Development 
+- 🌱 I’m currently learning ML 
+- 💬 Ask me about Python 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Hasanul-Banna-Himel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/hasanulbanna.himel.9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hasanul_himel/)  
