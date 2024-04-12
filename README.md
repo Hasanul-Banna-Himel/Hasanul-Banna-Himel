@@ -1,4 +1,4 @@
-![This is an image](https://media-exp1.licdn.com/dms/image/C5616AQH1ENVJ1D0_5w/profile-displaybackgroundimage-shrink_350_1400/0/1645247282187?e=2147483647&v=beta&t=pOKojifJBvFcFGlJ6eN-Yh-ZQCjEOck3kZK8LZwlhBw)
+
 
 
 ### Hi there 👋, I'm Himel
@@ -8,7 +8,7 @@ I am a fast learner. I will try to take this world into a better place.
 Skills: JS / HTML / CSS/ Bootstrap/ Python
 
 - 🔭 I’m currently working on improving my skills 
-- 🌱 I’m currently learning ML 
+- 🌱 I’m currently learning ML & Data Science
 - 💬 Ask me about Python 
 
 
