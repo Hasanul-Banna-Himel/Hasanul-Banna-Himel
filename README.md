@@ -5,10 +5,10 @@
 #### I am a programming enthusiast.
 I am a fast learner. I will try to take this world into a better place.
 
-Skills: JS / HTML / CSS/ Bootstrap/ Python
+Skills: HTML / CSS/ Bootstrap/ Python/ Azure
 
 - 🔭 I’m currently working on improving my skills 
-- 🌱 I’m currently learning ML & Data Science
+- 🌱 I’m currently learning ML 
 - 💬 Ask me about Python 
 
 
