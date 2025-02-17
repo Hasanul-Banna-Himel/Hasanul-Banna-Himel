@@ -1,5 +1,13 @@
-**👋 Hi there!**
+<!-- Updating my readme for GitHub-->
 
+<h1 align="center">Hi <img src="https://github.com/Hasanul-Banna-Himel/Hasanul-Banna-Himel/blob/main/Wave.gif" height="55px" width="55px">, I'm Hasanul Banna Himel</h1>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Working+on;Backend+and+AI-ML;Cloud-Computing;Multi+Community+Lead;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
+
+</p>
 I'm Hasanul Banna Himel, a self-taught ML/AI engineer with over 1 years of experience in creating and maintaining responsive, interactive ml models using cutting-edge ai technologies. I possess a track record of delivering high-quality products on time and within budget, both as an independent contributor and as part of a collaborative team. My strengths lie in problem-solving, critical thinking, and analytical reasoning, and I'm known for my adaptability and commitment to continuous learning.
 
 🚀 My passion revolves around crafting user-friendly and visually captivating ai experiences. My expertise spans various tools and technologies, including Pythorch, Next.js, Bootstrap, Git, GitHub, Netlify, Vercel, and Firebase. 
